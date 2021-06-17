@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<testsuite name="Node.js (linux; U; rv:v6.9.1) AppleWebKit/537.36 (KHTML, like Gecko)" package="unit" timestamp="2017-04-12T21:08:42" id="0" hostname="2c29b2a64693" tests="8" errors="0" failures="0" time="0.29">
+  <properties>
+    <property name="browser.fullName" value="Node.js (linux; U; rv:v6.9.1) AppleWebKit/537.36 (KHTML, like Gecko)"/>
+  </properties>
+  <system-err/>
+</testsuite>
